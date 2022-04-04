@@ -6,6 +6,3 @@
 
 
 
-![Imagem][img]
-
-[img]: jogo no estilo Space Shooter.png
