@@ -5,6 +5,3 @@
 ## Nesse projeto eu reforcei meus conhecimentos de HTML, CSS E JAVASCRIPT.
 
 
-![Imagem][img]
-
-[img]: jogo no estilo Space Shooter.png
