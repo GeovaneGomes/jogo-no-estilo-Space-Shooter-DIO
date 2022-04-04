@@ -8,4 +8,4 @@
 
 ![Imagem][img]
 
-[img]: space.png
+[img]: jogo no estilo Space Shooter.png
